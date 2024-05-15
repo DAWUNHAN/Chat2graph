@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/terrydawunhan/Laptop/STUDY/Chat2graph/media/videos/graph/480p15/partial_movie_files/Graph/1185818338_2328857517_223132457.mp4'
+file 'file:/Users/terrydawunhan/Laptop/STUDY/Chat2graph/media/videos/graph/480p15/partial_movie_files/Graph/624642324_503334460_3092733881.mp4'
+file 'file:/Users/terrydawunhan/Laptop/STUDY/Chat2graph/media/videos/graph/480p15/partial_movie_files/Graph/624642324_3523234046_3103976736.mp4'
+file 'file:/Users/terrydawunhan/Laptop/STUDY/Chat2graph/media/videos/graph/480p15/partial_movie_files/Graph/624642324_1777320822_3785780862.mp4'
+file 'file:/Users/terrydawunhan/Laptop/STUDY/Chat2graph/media/videos/graph/480p15/partial_movie_files/Graph/624642324_1569255750_949705796.mp4'
+file 'file:/Users/terrydawunhan/Laptop/STUDY/Chat2graph/media/videos/graph/480p15/partial_movie_files/Graph/624642324_1141282389_1817884494.mp4'
